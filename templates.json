@@ -1,0 +1,53 @@
+[
+  {
+    "id": "vite-starter",
+    "name": "Starter Vitejs Project",
+    "description": "A basic Vite.js project setup with React, TypeScript, and Tailwind CSS.",
+    "framework": "Vite",
+    "isPaid": false
+  },
+  {
+    "id": "nextjs-starter",
+    "name": "Starter Nextjs Project",
+    "description": "A foundational Next.js project with App Router, TypeScript, and Tailwind CSS.",
+    "framework": "Next.js",
+    "isPaid": false
+  },
+  {
+    "id": "html-starter",
+    "name": "Starter HTML Project",
+    "description": "A simple HTML/CSS/JS project with responsive design and modern styling.",
+    "framework": "HTML",
+    "isPaid": false
+  },
+  {
+    "id": "nextjs-real-estate",
+    "name": "Starter NextJS Real-Estate Project",
+    "description": "Complete real estate website template with property listings, search functionality, and agent profiles.",
+    "framework": "Next.js",
+    "isPaid": true,
+    "price": 45,
+    "contact": "+501 6332826",
+    "demoUrl": "https://flow-real-estate-demo-nextjs.genieaibz.dpdns.org/"
+  },
+  {
+    "id": "nextjs-cloud-storage",
+    "name": "Starter CloudStorage NextJS Project",
+    "description": "Cloud storage application with file management, user authentication, and sharing capabilities.",
+    "framework": "Next.js",
+    "isPaid": true,
+    "price": 45,
+    "contact": "+501 6332826",
+    "demoUrl": "https://flow-cloudstorage-nextjs-demo.genieaibz.dpdns.org/"
+  },
+  {
+    "id": "vite-real-estate",
+    "name": "Starter ViteJS Real-Estate Project",
+    "description": "Modern real estate website built with Vite, featuring property listings and search functionality.",
+    "framework": "Vite",
+    "isPaid": true,
+    "price": 25,
+    "contact": "+501 6332826",
+    "demoUrl": "https://flow-realestate-demo.genieaibz.dpdns.org/"
+  }
+]
